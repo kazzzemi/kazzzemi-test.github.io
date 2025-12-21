@@ -1,5 +1,7 @@
 ---
 title: CV
-nav_order: 1
+layout: default
+nav_order: 10
 ---
-Test. abc123
+
+# CV
