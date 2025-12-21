@@ -2,6 +2,7 @@
 title: Projects
 layout: default
 nav_order: 20
+parent: Hobbies
 ---
 
 # Projects
